@@ -1,0 +1,4 @@
+from .savings_record import SavingsRecordModel
+from .fixed_deposit import FixedDepositModel
+from .fixed_deposit_record import FixedDepositRecordModel
+from .interest_record import InterestRecordModel
